@@ -4,4 +4,4 @@ __Passionné__ par la programmation après l'avoir découverte l'année dernièr
 
 ![](https://github.com/TimotheePopesco/TimotheePopesco/blob/main/bannieregit.png)
 
-
+Je me suis inscrit sur github pour découvrir apprendre et partager de nouvelles choses.
